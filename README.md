@@ -1,6 +1,17 @@
 # DOM Manipulation and Practice
 
-### made by Mojiboye Emmanuel
+#### made by Mojiboye Emmanuel
+
+### A website for interacting with the browser
+
+## Technologies Used
+* Git
+* Html
+* Css
+* Bootstrap
+* Javascript
+* jQuery
+
 
 ## Description 
 _A website where a user can send a message to the browser and the browser responds back. Also when the user clicks on the message he or she sends, the message gets deleted_
@@ -15,7 +26,7 @@ _Note: the website is designed to run on a web browser just be sure you have one
 _As at the launching of this Project there are zero bugs in it. But if you do find a bug in it, be sure to notify me via my various social media handles below_
 
 ## WEBSITE LINK
-https://github.com/Emzzy241/J-SHOES-Store
+https://github.com/Emzzy241/Dom-Manipulation-and-Practice
 
 ## License 
 Licensed under the GNU General Public License 
